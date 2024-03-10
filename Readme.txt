@@ -1,1 +1,0 @@
-Debes correr el programa desde la clase Main.java
