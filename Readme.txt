@@ -6,3 +6,4 @@ Persona encargada
 Estado ["Activa", "En desarrollo", "Realizada"]
 
 La lista debe contener al menos 5 tareas.
+[Probar en main]
